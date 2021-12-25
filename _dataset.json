@@ -1,0 +1,411 @@
+{
+    "cluephrase": "ANS|WER|IS|Q|OF|THE|N",
+    "episodes": [
+        {
+            "Episode": 1,
+            "Opponent": "W.S. (B)",
+            "PGN": [
+                "Beth Harmon|William Shaibel",
+                "e4 e5",
+                "Nf3 Nc6",
+                "Bc4 Bc5",
+                "c3 Qe7",
+                "O-O d6",
+                "d4 Bb6",
+                "Bg5 f6",
+                "Bh4 g5",
+                "Nxg5 fxg5",
+                "Qh5+ Kd7",
+                "Bxg5 Qg7",
+                "Be6+ Kxe6",
+                "Qe8+ 1-0"
+            ]
+        },
+        {
+            "Episode": 2,
+            "Opponent": "H.B. (B)",
+            "PGN": [
+                "Beth Harmon|Harry Beltik",
+                "e4 c6",
+                "Nf3 d5",
+                "Nc3 Bg4",
+                "h3 Bxf3",
+                "Qxf3 e6",
+                "g3 g6",
+                "Bg2 Bg7",
+                "O-O Nd7",
+                "Qe2 d4",
+                "Nb1 e5",
+                "d3 Ne7",
+                "f4 Qc7",
+                "a4 O-O",
+                "f5 f6",
+                "Nd2 Bh6",
+                "Kh2 Kh8",
+                "fxg6 hxg6",
+                "Nf3 Bxc1",
+                "Raxc1 Nc5",
+                "c3 Nb3",
+                "Rcd1 Rad8",
+                "Nh4 Qc8",
+                "Bf3 Qe6",
+                "Bg4 Qf7",
+                "Nf3 Qg8",
+                "h4 Kg7",
+                "Rf2 Rd6",
+                "Rdf1 Rdd8",
+                "Qc2 b6",
+                "h5 c5",
+                "hxg6 dxc3",
+                "bxc3 c4",
+                "d4 exd4",
+                "cxd4 Nxd",
+                "Nxd4 Rxd4",
+                "e5 f5",
+                "Bxf5 Qd5",
+                "Be6 Rh8+",
+                "Bh3 Nxg6",
+                "Rf7+ Kh6",
+                "Qxg6+ Kxg6",
+                "R1f6+ Kg5",
+                "Rf5+ Kg6",
+                "R7f6+ Kh7",
+                "Rh5+ Kg7",
+                "Rg5+ Kh7",
+                "Bf5# 1-0"
+            ]
+        },
+        {
+            "Episode": 4.1,
+            "Opponent": "D. (W)",
+            "PGN": [
+                "Diedrich|Beth Harmon",
+                "d4 d5",
+                "c4 e6",
+                "Nc3 Nf6",
+                "Nf3 Be7",
+                "Bg5 O-O",
+                "e3 Nbd7",
+                "Rc1 b6",
+                "cxd5 exd5",
+                "Qa4 Bb7",
+                "Ba6 Bxa6",
+                "Qxa6 c5",
+                "Bxf6 Nxf6",
+                "dxc5 bxc5",
+                "O-O Qb6",
+                "Qe2 c4",
+                "Rfd1 Rfd8",
+                "Nd4 Bb4",
+                "b3 Rac8",
+                "bxc4 dxc4",
+                "Rc2 Bxc3",
+                "Rxc3 Nd5",
+                "Rc2 c3",
+                "Rdc1 Rc5",
+                "Nb3 Rc6",
+                "Nd4 Rc7",
+                "Nb5 Rc5",
+                "Nxc3 Nxc3",
+                "Rxc3 Rxc3",
+                "Rxc3 Qb2"
+            ]
+        },
+        {
+            "Episode": 4.2,
+            "Opponent": "G.G. (B)",
+            "PGN": [
+                "Beth Harmon|Georgi Girev",
+                "e4 c5",
+                "Nf3 e6",
+                "d4 cxd4",
+                "Nxd4 Nc6",
+                "Nc3 d6",
+                "Be3 Nf6",
+                "f4 e5",
+                "Nf3 Ng4",
+                "Qd2 Nxe3",
+                "Qxe3 exf4",
+                "Qxf4 Be7",
+                "O-O-O Be6",
+                "Nd5 O-O",
+                "Kb1 Rc8",
+                "g4 Bxd5",
+                "Rxd5 Nb4",
+                "Rd2 Qb6",
+                "g5 Rc5",
+                "a3 Nc6",
+                "h4 Ra5",
+                "Rd3 Rb5",
+                "Qc1 Rc8",
+                "Be2 Bf8",
+                "Rf1 g6",
+                "Rb3 Rxb3",
+                "cxb3 Rc7",
+                "Qd1 Bg7",
+                "Bc4 Nd4",
+                "Nxd4 Qxd4",
+                "Qe2 Re7",
+                "Rf2 Rxe4",
+                "Bxf7+ Kh8",
+                "Qc2 Re1+",
+                "Ka2 Qc5",
+                "b4 Qxc2",
+                "Rxc2 Be5",
+                "Bd5 h6",
+                "Rc8+ Kh7",
+                "Rc7+ Kh8"
+            ]
+        },
+        {
+            "Episode": 5,
+            "Opponent": "B.W. (W)",
+            "PGN": [
+                "Benny Watts|Beth Harmon",
+                "Nf3 Nf6",
+                "c4 e6",
+                "g3 d5",
+                "d4 dxc4",
+                "Bg2 a6",
+                "Ne5 Bb4+",
+                "Nc3 Nd5",
+                "O-O O-O",
+                "Qc2 b5",
+                "Nxd5 exd5",
+                "b3 c6",
+                "e4 f6",
+                "exd5 fxe5",
+                "bxc4 exd4",
+                "dxc6 Be6",
+                "cxb5 d3",
+                "c7 Qd4",
+                "Qa4 Nd7",
+                "Be3 Qd6",
+                "Bxa8 Rxa8",
+                "Bf4 Qf8",
+                "b6 Ne5",
+                "Bxe5 Qf3",
+                "Qd1 Qe4",
+                "b7 Rf8",
+                "c8=Q Bd5",
+                "f3 1-0"
+            ]
+        },
+        {
+            "Episode": 6,
+            "Opponent": "V.B. (B)",
+            "PGN": [
+                "Beth Harmon|Vasily Borgov",
+                "e4 c5",
+                "Nf3 d6",
+                "d4 cxd4",
+                "Nxd4 Nf6",
+                "Nc3 a6",
+                "Bc4 e6",
+                "Bb3 b5",
+                "O-O Be7",
+                "Qf3 Qc7",
+                "Qg3 O-O",
+                "Bh6 Ne8",
+                "Rad1 Bd7",
+                "a3 Nc6",
+                "Nxc6 Bxc6",
+                "Rfe1 Qb7",
+                "f3 a5",
+                "Ne2 a4",
+                "Ba2 b4",
+                "axb4 Qxb4",
+                "Bc1 Nf6",
+                "Nd4 Bd7",
+                "Qf2 Rfc8",
+                "g4 Bb5",
+                "c3 Qa5",
+                "e5 dxe5",
+                "Rxe5 Rc5",
+                "Ree1 Bc4",
+                "Bb1 Qc7",
+                "f4 g6",
+                "h3 a3",
+                "bxa3 Rb8",
+                "Be4 Nxe4",
+                "Rxe4 Bd5",
+                "Re3 Rxc3",
+                "Rxc3 Qxc3",
+                "Qe3 Qc7",
+                "Qe2 Bd6",
+                "Qd3 Ba8",
+                "Qe2 Qa5",
+                "Qf2 Qd5",
+                "Kf1 Bc7",
+                "Ke1 Ba5+",
+                "Kf1 Rb3",
+                "Qh2 Bc7",
+                "Qf2 Rc3",
+                "Ke1 Ba5",
+                "Kf1 Bb6",
+                "Ke1 Bc7",
+                "Ne2 Qe4",
+                "Qd4 0-1"
+            ]
+        },
+        {
+            "Episode": 7,
+            "Opponent": "H. (W)",
+            "PGN": [
+                "Hellstrom|Beth Harmon",
+                "c4 e5",
+                "Nc3 d6",
+                "d4 exd4",
+                "Qxd4 Nf6",
+                "g3 Nc6",
+                "Qd2 Be6",
+                "Nd5 Ne5",
+                "b3 Ne4",
+                "Qe3 Nc5",
+                "Bb2 c6",
+                "Nf4 Ng4",
+                "Qd4 Ne4",
+                "Bh3 Qa5+",
+                "Kf1 Ngxf2",
+                "Bxe6 fxe6",
+                "Nxe6 Kd7",
+                "Nh3 Nxh3",
+                "Qxe4 Re8",
+                "Nc5+ Qxc5",
+                "Qg4+ Kc7",
+                "Qxh3 Be7",
+                "Bxg7 Rhf8+",
+                "Bxf8 Rxf8+",
+                "Ke1 Qf2+",
+                "Kd1 Qd4+",
+                "Kc2 Qe4+",
+                "Kd2 Bg5+",
+                "Kc3 Qe5+"
+            ]
+        }
+    ],
+    "clues": [
+        {
+            "Episode": 1,
+            "Song": "Let It Go",
+            "Lyrics": [
+                "the", "snow", "glows", "white", "on",  "the", "moun-", "tain", "to-",  "NIGHT",
+                "not", "a",    "foot",  "print", "to",  "be",  "seen",  "a",    "KING-", 
+                "dom", "of",   "i-",    "so-",   "la-", "a-",  "tion",  "and",  "it",   "looks", "like", "i'm", "the", "QUEEN"
+            ],
+            "Melody": [
+                "a#3", "c4",  "c4",  "c4",  "c4",  "c4", "c4", "a#3", "g#3", "g#3", 
+                "g#3", "g#3", "a#3", "a#3", "a#3", "g3", "f3", "f3",  "a#3",
+                "c4",  "c4",  "c4",  "d#4", "d#4", "c4", "c4", "g#3", "a#3", "a#3", "c4", "a#3", "g#3", "a#3"
+            ],
+            "Rhythm": [
+                2.0, 1.0, 1.0,  1.0, 2.0, 2.0, 2.0,  2.0, 2.0, 0.67, 
+                2.0, 2.0, 2.0,  0.5, 2.0, 2.0, 0.67, 2.0, 2.0,
+                2.0, 2.0, 0.67, 2.0, 2.0, 2.0, 0.67, 2.0, 2.0, 2.0, 0.67, 2.0, 2.0, 1.0
+            ],
+            "Extract": "ANS"
+        },
+        {
+            "Episode": 2,
+            "Song": "Can You Feel the Love Tonight",
+            "Lyrics": [
+                "why", "won't", "he",  "be",    "the", "KING", 
+                "i",   "know",  "he",  "is?",   "the", "KING",
+                "i",   "see",   "in-", "side?", "can", "you", "feel", "the", "love", "to-", "NIGHT"
+            ],
+            "Melody": [
+                "c4", "d4", "e4", "f4", "c4", "c5",
+                "a4", "f4", "f4", "d4", "d4", "a#4",
+                "a4", "g4", "f4", "g4", "c5", "a4", "g4", "c5", "a4", "f4", "d4"
+            ],
+            "Rhythm": [
+                4, 2, 4, 2, 2, 1.33, 
+                2, 4, 4, 4, 4, 2,
+                2, 2, 2, 0.25, 1, 2, 0.67, 2, 0.67, 2, 0.67
+            ],
+            "Extract": "WER"
+        },
+        {
+            "Episode": 4.1,
+            "Song": "From Now On",
+            "Lyrics": [
+                "from", "now", "on", "from", "now", "on", "i", "drank", "cham-", "pagne", "with", "KINGs",
+                "and",  "QUEENs"
+            ],
+            "Melody": [
+                "e4", "d#4", "c#4", "e4", "f#4", "f#4", "e4", "g#4", "g#4", "g#4", "f#4", "f#4",
+                "e4", "e4"
+            ],
+            "Rhythm": [
+                0.67, 2.0, 1.0, 0.67, 2.0, 1.0, 2.0, 1.0, 1.0, 0.67, 2.0, 1.0,
+                2.0, 0.67
+            ],
+            "Extract": "IS"
+        },
+        {
+            "Episode": 4.2,
+            "Song": "Castle on a Cloud",
+            "Lyrics": [
+                "cry-", "ing", "at", "all", "is", "not", "all-", "owed", "not", "in", "my", "CAS-"
+             ],
+            "Melody": [
+                "d4", "e4", "f4", "e4", "a4", "b4", "c5", "a4", "d4", "e4", "f4", "e4"
+            ],
+            "Rhythm": [
+                2, 4, 4, 2, 2, 2, 2, 1, 2, 4, 4, 2
+            ],
+            "Extract": "Q"
+        },
+        {
+            "Episode": 5,
+            "Song": "High Flying Adored",
+            "Lyrics": [
+                "high", "fly-", "ing",   "a-",  "dored", "so",    "young", "the", "ins-", "tant", "QUEEN",
+                "a",    "rich", "beau-", "ti-", "ful",   "thing", "of",    "all", "the",  "tal-", "ents", "a", "cross", "be-", "tween", "a", "fan-", "ta-", "sy", "of", "the", "bed-", "room", "and", "a", "SAINT"
+            ],
+            "Melody": [
+                "a#4", "d#4", "g4",  "a#4", "a#4",  "a#4", "g#4", "g#4", "g#4", "a#4", "g4",
+                "a#4", "a#4", "d#4", "g4",  "a#4",  "a#4", "a#4", "a#4", "g#4", "g#4", "g#4", "g#4", "g#4", "a#4", "g4",  "f4",   "f4",  "f4",  "f4",  "f4",  "g4",  "g#4", "d#4", "c4", "d#4", "f4"
+             ],
+             "Rhythm": [
+                0.5, 1.5, 1.5, 1.5, 0.4, 2.0, 0.4, 2.0, 1.0, 2.0, 0.67,
+                1.0, 0.5, 1.5, 1.5, 1.5, 0.4, 2.0, 2.0, 2.0, 2.0, 0.4, 2.0, 1.0, 2.0, 0.67, 1.0, 2.0, 2.0, 0.67, 1.0, 2.0, 1.0, 0.67, 1.0, 2.0, 0.4
+             ],
+             "Extract": "OF"
+        },
+        {
+            "Episode": 6,
+            "Song": "Viva La Vida",
+            "Lyrics": [
+                "now",  "the",  "old",  "KING",
+                "is",   "dead", "long", "live", "the",  "KING",
+                "one",  "min-", "ute",  "i",    "held", "the", "key", "next", "the", "walls", "were", "closed", "on", "me", "and", "i", "dis-", "cov-", "ered", "that", "my", "CAS-"
+            ],
+            "Melody": [
+                "g#4", "g#4", "c5", "a#4",
+                "g#4", "g#4", "c5", "a#4", "g#4", "g#4", 
+                "f5",  "f5",  "f5", "f5",  "f5",  "c#5", "d#5", "d#5", "d#5", "d#5", "g#4", "d#5", "c#5", "c5", "f4", "c5", "c5", "c5", "c5", "c5", "c5", "c5"
+            ],
+            "Rhythm": [
+                2.0, 2.0,  2.0, 2.0,
+                2.0, 0.67, 2.0, 2.0, 2.0,  1.0,
+                2.0, 2.0,  2.0, 1.0, 0.33, 2.0, 0.4, 1.0, 2.0, 0.67, 2.0, 1.0, 1.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 0.4
+            ],
+            "Extract": "THE"
+        },
+        {
+            "Episode": 7,
+            "Song": "In a Crowd of Thousands",
+            "Lyrics": [
+                "a", "par-", "ade", "and", "a", "girl", "and", "a", "crowd", "of", "thou-", "sands", "she", "sat", "straight", "as", "a", "QUEEN"
+            ],
+            "Melody": [
+                "g#4", "b4", "c#5", "d#5", "e5", "e5", "d5", "c#5", "b4", "e4", "g#4", "f#4", "g#4", "b4", "c#5", "d#5", "e5", "g#4"
+            ],
+            "Rhythm": [
+                2, 2, 0.4, 1, 2, 0.25, 2, 2, 0.67, 2, 1, 1, 2, 2, 1, 2, 2, 1
+            ],
+            "Extract": "N"
+        }
+    ]
+}
